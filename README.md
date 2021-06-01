@@ -9,3 +9,5 @@ npm start
 ```
 **When done, go to your web browser and navigate to `localhost`.**
 
+If you longer go to `http://127.0.0.1/`.**
+
